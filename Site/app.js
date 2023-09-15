@@ -12,7 +12,7 @@ const msalConfig = {
 };
 
 //API Config
-var APIendpoint = "https://devonapim.azure-api.net/Workshop"
+var APIendpoint = "YOUR API ENDPOINT"
 
 //Vars
 const myMSALObj = new msal.PublicClientApplication(msalConfig);
